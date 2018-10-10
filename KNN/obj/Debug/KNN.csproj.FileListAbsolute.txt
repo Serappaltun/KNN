@@ -1,0 +1,9 @@
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\bin\Debug\KNN.exe.config
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\bin\Debug\KNN.exe
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\bin\Debug\KNN.pdb
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\obj\Debug\KNN.csprojResolveAssemblyReference.cache
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\obj\Debug\KNN.Form1.resources
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\obj\Debug\KNN.Properties.Resources.resources
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\obj\Debug\KNN.csproj.GenerateResource.Cache
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\obj\Debug\KNN.exe
+c:\users\serapaltun\documents\visual studio 2013\Projects\KNN\KNN\obj\Debug\KNN.pdb
